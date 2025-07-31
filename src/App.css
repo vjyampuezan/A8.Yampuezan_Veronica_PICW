@@ -1,0 +1,14 @@
+/* Estilos simples para el proyecto */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f8f9;
+}
+
+.container {
+  max-width: 800px;
+}
+
+img {
+  margin-bottom: 20px;
+}
